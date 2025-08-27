@@ -59,8 +59,8 @@ The project is divided into several packages:
 - Add stricter rules for contract validity and discount management.
 
 ## Dev Team
-Mattéo DABOUT
-Emma DOSSANTOS
-Aicha EISH
-Baptiste ROBARD
+Mattéo DABOUT /
+Emma DOSSANTOS /
+Aicha EISH /
+Baptiste ROBARD /
 Asma YAZIDI
