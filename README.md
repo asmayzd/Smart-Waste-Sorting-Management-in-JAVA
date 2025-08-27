@@ -5,18 +5,18 @@ A Java object-oriented application simulating the intelligent management of wast
 ## Features
 
 ### User Features
-- **Login and Registration**: Create and manage user accounts.
-- **Waste Deposit**: Automatic verification of waste type and weight.
-- **Points and Rewards**: Earn loyalty points for correct sorting.
-- **Redeem Points**: Obtain discount vouchers at partner stores.
-- **History**: View past deposits and vouchers used.
+- **Login and Registration** : Create and manage user accounts.
+- **Waste Deposit** : Automatic verification of waste type and weight.
+- **Points and Rewards** : Earn loyalty points for correct sorting.
+- **Redeem Points** : Obtain discount vouchers at partner stores.
+- **History** : View past deposits and vouchers used.
 
 ### Administrator Features
-- **Manage Bins**: Add, modify, empty, or remove bins.
-- **Manage Users**: Create, edit, delete, and transfer users between recycling centers.
-- **View Statistics**: Total and average waste deposited at the center.
-- **Manage Partnerships**: Add and track partner stores and contracts.
-- **Manage Product Categories**: Create, modify categories and add products.
+- **Manage Bins** : Add, modify, empty, or remove bins.
+- **Manage Users** : Create, edit, delete, and transfer users between recycling centers.
+- **View Statistics** : Total and average waste deposited at the center.
+- **Manage Partnerships** : Add and track partner stores and contracts.
+- **Manage Product Categories** : Create, modify categories and add products.
 
 ### Super Administrator Features
 - **Manage All Recycling Centers** and their administrators.
@@ -27,13 +27,13 @@ A Java object-oriented application simulating the intelligent management of wast
 
 The project is divided into several packages:
 
-- **application**: JavaFX main entry point.
-- **classe**: Classes representing entities in the UML diagram.
-- **DAO**: Data Access Objects for MySQL (CRUD operations).
-- **FXML**: FXML files generated with Scene Builder.
-- **IHM**: JavaFX controllers managing user interactions.
-- **test**: Unit tests for business logic and DAOs.
-- **MainTest**: Global tests for the whole application.
+- **application** : JavaFX main entry point.
+- **classe** : Classes representing entities in the UML diagram.
+- **DAO** : Data Access Objects for MySQL (CRUD operations).
+- **FXML** : FXML files generated with Scene Builder.
+- **IHM** : JavaFX controllers managing user interactions.
+- **test** : Unit tests for business logic and DAOs.
+- **MainTest** : Global tests for the whole application.
 
 ## Installation and Usage
 
